@@ -5,4 +5,4 @@
 ## code
 
 ### vue
-[Lazy Sudoku](https://bugupdater.github.io/code/vue/lazy-sudoku/)
+[Lazy Sudoku](https://bugupdater.github.io/code/vue/lazy-sudoku/index.html)
